@@ -10,15 +10,15 @@ Live demo here: <a href="https://reactfolio.tharindu.dev/" target="_blank">react
 <br/>
 Readme here: <a href="https://tharindu.dev/portfolio/reactfolio/" target="_blank">tharindu.dev/portfolio/reactfolio/</a>
 
--   [Features](#-features)
--   [Getting started](#-getting-started)
--   [Installation and Setup Instructions](#-installation-and-setup-instructions)
--   [Folder structure](#-folder-structure)
--   [Configurations](#-configurations)
--   [Google Analytics](#-google-analytics)
--   [Building the React App](#-building-the-react-app)
--   [FAQ](#-faq)
--   [Contribution](#-contribution)
+- [Reactfolio V1.2 👩🏽‍🚀](#reactfolio-v12-)
+  - [📙 Features](#-features)
+  - [📚 Getting started](#-getting-started)
+  - [🛠 Installation and Setup Instructions](#-installation-and-setup-instructions)
+  - [📁 Folder structure](#-folder-structure)
+  - [⚙️ Configurations](#️-configurations)
+  - [📈 Google Analytics](#-google-analytics)
+  - [🚀 Building the React App](#-building-the-react-app)
+  - [🤔 FAQ](#-faq)
 
 ## 📙 Features
 
@@ -206,6 +206,4 @@ If you are using Apache as your web server, you can insert this into your .htacc
 </IfModule>
 ```
 
-## 🌱 Contribution
-
-If you have any suggestions on what to improve in Reactfolio and would like to share them, feel free to leave an issue or fork project to implement your own ideas
+s
